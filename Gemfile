@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem 'roo'
+gem 'roo', '>= 2.7.1'
 gem 'thor'
 gem 'git'
